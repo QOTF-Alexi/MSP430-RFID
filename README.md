@@ -7,6 +7,7 @@ See the NXP datasheets for info on how many sectors and blocks there are.
 
 Has been thoroughly tested with the MSP430G2553IN20 microcontroller and the MSP-EXP430G2ET Launchpad
 
+```
 /*
  * Defused slightly by Foxydiot
  * This code is Unlicensed. See http://unlicense.org and the UNLICENSE file for more info.
@@ -26,3 +27,4 @@ Has been thoroughly tested with the MSP430G2553IN20 microcontroller and the MSP-
  * VCC   <-->  VCC
  * GND   <-->  GND
  */
+```
